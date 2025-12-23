@@ -57,4 +57,4 @@ _예약부터 진료, 리뷰까지 하나의 흐름으로 연결된 구조를 �
 
 ## 서비스 시연 영상
 
-[!Richee Demo](https://www.youtube.com/watch?v=1ZLQr8uVqBU)
+[!시연영상](https://www.youtube.com/watch?v=1ZLQr8uVqBU)
