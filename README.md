@@ -1,8 +1,8 @@
-### Ritchee Python Study
+### Ritchee LOGO
 
 ![Ritchee Logo](<images/로고제작%20(12).png>)
 
-## Tech Stack
+## 기술 스택
 
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -21,7 +21,9 @@
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
 
 </div>
-> ### *Who are we?*
+
+> ### _Who are we?_
+
 - 제작 기간 : 2025-11-17 ~ 2023-12-22
 - 팀구성 : 김훈규, 박종석, 임윤섭, 장희란, 이하늘, 홍지승
 
